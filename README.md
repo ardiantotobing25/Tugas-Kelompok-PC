@@ -1,4 +1,4 @@
-# Tugas-Kelompok-PC
+# Tugas-Kelompok-PC-6
 Nama Anggota :
 Ardianto Kristian L. Tobing (201401114)
 Aldo Enriko Panjaitan (201401112)
